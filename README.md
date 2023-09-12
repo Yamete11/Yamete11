@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gleb, 3rd-year student of Computer Science at the Polish-Japanese Academy of Information Technology
+- 👋 Hi, I’m Gleb, 4th-year student of Computer Science at the Polish-Japanese Academy of Information Technology
 - 👀 I’m interested in Back-End development
 - ✨ Favorite programming language - C#, Java
 

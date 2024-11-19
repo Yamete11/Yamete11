@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Gleb, 4th-year student of Computer Science at the Polish-Japanese Academy of Information Technology
-- 👀 I’m interested in Back-End development
-- ✨ Favorite programming language - C#, Java
+# 👋 Hi there, I'm Gleb!  
 
-<!---
-Yamete11/Yamete11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Test Automation Engineer.  
+
+## 🌟 About Me  
+- 🔍 Currently exploring advanced topics in **Java** and **Back-End technologies**.  
+- 🛠 Favorite programming language: **Java**.  
+- 🌱 Continuously learning and improving my skills.  
+
+💬 Feel free to connect with me or explore my repositories to see what I'm working on!  
